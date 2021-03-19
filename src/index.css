@@ -1,0 +1,30 @@
+body {
+  padding: 50px;
+  background-color: lightseagreen;
+  font-family: sans-serif;
+}
+
+#container {
+  display: flex;
+  justify-content: flex;
+}
+
+button {
+  padding: 10px;
+  margin: 10px;
+  font-size: 16px;
+  border: 2px solid;
+}
+input {
+  padding: 10px;
+  margin: 10px;
+  font-size: 16px;
+  background-color: lightgreen;
+}
+li {
+  font-weight: bold;
+  padding: 16px;
+  list-style: none;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
